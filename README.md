@@ -1,20 +1,29 @@
-# Optionallab
+# Loud Noises
 
-## Objectives
+![JohnKeating](http://i.imgur.com/8HkWghd.png)
 
-1. Objective 1
-2. Objective 2.
 
-## Instructions
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+> Carpe diem. Seize the day, boys. Make your lives extraordinary. ~[John Keating](https://en.wikipedia.org/wiki/Dead_Poets_Society)
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+## Learning Objectives - The student should be able to..
 
-### Part 1: Do Some Stuff
+* Solve this lab solidifying their knowledge of optionals.
 
-## Resources
+## What the student can do at this point 
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* Create variables and constants
+* Is familiar with type annotations, type inference and string interpolation.
+* Can create functions with return types.
+* Is familiar with the String, Int, Double, and Bool type.
+* Can perform arithmetic operations on Int and Double.
+* Understands if and else clause statements.
+* Knows how to work with Optionals
 
-<a href='https://learn.co/lessons/OptionalLab' data-visibility='hidden'>View this lesson on Learn.co</a>
+## Outline / Notes
+
+*  This could be anywhere between 10-15 questions.
+
+
+
+
