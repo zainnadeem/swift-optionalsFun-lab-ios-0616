@@ -17,7 +17,3 @@
 * Can perform arithmetic operations on `Int` and `Double`.
 * Understands if and else clause statements.
 * Knows how to work with `Optional`s
-
-## Outline / Notes
-
-*  This could be anywhere between 10-15 questions.
