@@ -17,6 +17,8 @@ var pet = "turtle 🐢"
 
 
 
+
+
 /*: question2
  ### 2. What is the type of the variable `petName` declared below?
  */
@@ -25,9 +27,13 @@ var petName: String?
 
 
 
+
+
 /*: question3
  ### 3. Currently, what is the _value_ of `petName`?
  */
+
+
 
 
 
@@ -41,10 +47,16 @@ var petName: String?
 
 
 
+
+
+
 /*: question5
  ### 5. Print out `petName` using Swift's `print()` function. What do you expect to see in the console?
  */
 // write your code here
+
+
+
 
 
 
@@ -57,10 +69,16 @@ var petName: String?
 
 
 
+
+
+
 /*: question7
  ### 7. Use _optional binding_ to unwrap the value of `petName` and print it to the console without all the **Optional(...)** stuff around it.
  */
 // write your code here
+
+
+
 
 
 
@@ -74,10 +92,18 @@ var anotherPetName: String?
 
 
 
+
+
+
 /*: question9
  ### 9. Using optional binding, write an if statement that prints "anotherPetName has no value" if it is `nil`; otherwise, print the _unwrapped_ value of `anotherPetName`. What do you expect to see in the console?
  */
 // write your code here
+
+
+
+
+
 
 
 
@@ -90,6 +116,11 @@ var anotherPetName: String?
 
 
 
+
+
+
+
+
 /*: question11
  ### 11. Declare another _constant_ optional string, and set it to `nil` immediately. Then, on the next line, assign a string value to it. What happens?
  */
@@ -98,7 +129,9 @@ var anotherPetName: String?
 
 
 
-/*:
- [Solution](solution)
- */
-// ❤️
+
+
+
+
+
+//: Checkout the solution branch, git co solution and come back to this spot to see a link to the solution
